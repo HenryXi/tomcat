@@ -55,11 +55,10 @@
  *
  */
 
-package org.apache.catalina.util;
+package ex03.pyrmont.util;
 
 import java.text.MessageFormat;
 import java.util.Hashtable;
-import java.util.Locale;
 import java.util.MissingResourceException;
 import java.util.ResourceBundle;
 

@@ -62,7 +62,7 @@
  */
 
 
-package org.apache.catalina.util;
+package ex03.pyrmont.util;
 
 
 import java.util.HashMap;
@@ -170,8 +170,7 @@ public final class ParameterMap extends HashMap {
     /**
      * The string manager for this package.
      */
-    private static final StringManager sm =
-        StringManager.getManager("org.apache.catalina.util");
+    private static final StringManager sm = StringManager.getManager("i18n");
 
 
     // --------------------------------------------------------- Public Methods

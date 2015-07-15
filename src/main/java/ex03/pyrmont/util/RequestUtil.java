@@ -62,7 +62,7 @@
  */
 
 
-package org.apache.catalina.util;
+package ex03.pyrmont.util;
 
 import java.io.UnsupportedEncodingException;
 import java.text.SimpleDateFormat;

@@ -2,7 +2,7 @@ package ex03.pyrmont.connector.http;
 
 import ex03.pyrmont.connector.ResponseStream;
 import ex03.pyrmont.connector.ResponseWriter;
-import org.apache.catalina.util.CookieTools;
+import ex03.pyrmont.util.CookieTools;
 
 import javax.servlet.ServletOutputStream;
 import javax.servlet.http.Cookie;

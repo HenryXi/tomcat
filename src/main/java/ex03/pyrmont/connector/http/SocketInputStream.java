@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.EOFException;
 
-import org.apache.catalina.util.StringManager;
+import ex03.pyrmont.util.StringManager;
 
 /**
  * Extends InputStream to be more efficient reading lines during HTTP

@@ -30,9 +30,9 @@ import java.util.HashMap;
 import java.util.Locale;
 import java.util.Map;
 
-import org.apache.catalina.util.Enumerator;
-import org.apache.catalina.util.ParameterMap;
-import org.apache.catalina.util.RequestUtil;
+import ex03.pyrmont.util.Enumerator;
+import ex03.pyrmont.util.ParameterMap;
+import ex03.pyrmont.util.RequestUtil;
 
 public class HttpRequest implements HttpServletRequest {
 

@@ -9,8 +9,8 @@ import java.io.IOException;
 import javax.servlet.ServletException;
 import javax.servlet.http.Cookie;
 
-import org.apache.catalina.util.RequestUtil;
-import org.apache.catalina.util.StringManager;
+import ex03.pyrmont.util.RequestUtil;
+import ex03.pyrmont.util.StringManager;
 
 /* this class used to be called HttpServer */
 public class HttpProcessor {
